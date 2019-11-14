@@ -1,0 +1,10 @@
+---
+service_instance_guid: uuid
+service_instance_name: name
+service_instance_bullet_name: bullet name
+service_instance_bullet_desc: bullet desc
+service_instance_plan_guid: uuid
+service_instance_plan_name: plan_name
+service_instance_plan_desc: plan_desc
+service_instance_org_limitation: -1
+service_instance_space_limitation: -1
