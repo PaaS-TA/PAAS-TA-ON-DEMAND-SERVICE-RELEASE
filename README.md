@@ -8,4 +8,4 @@ bosh 2.0 PAAS-TA-ON-DEMAND-SERVICE-RELEASE
 - service :: 0 machine ()
 
 
-SRC DOWNLOAD : wget -O src.zip http://45.248.73.44/index.php/s/MSKdLzArEGQo7Tj/download
+SRC DOWNLOAD : wget -O src.zip http://45.248.73.44/index.php/s/RPZdLjQiX9iiop4/download
