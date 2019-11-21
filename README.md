@@ -7,5 +7,9 @@ bosh 2.0 PAAS-TA-ON-DEMAND-SERVICE-RELEASE
 - on-demand-broker :: 1 machine
 - service :: 0 machine ()
 
-
-SRC DOWNLOAD : wget -O src.zip http://45.248.73.44/index.php/s/RPZdLjQiX9iiop4/download
+2.SRC DOWNLOAD
+------------------------
+- wget -O src.zip http://45.248.73.44/index.php/s/RPZdLjQiX9iiop4/download
+- unzip download.zip
+- rm -rf download.zip
+------------------------
