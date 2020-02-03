@@ -9,7 +9,7 @@ bosh 2.0 PAAS-TA-ON-DEMAND-SERVICE-RELEASE
 
 2.SRC DOWNLOAD
 ------------------------
-- wget -O src.zip http://45.248.73.44/index.php/s/RPZdLjQiX9iiop4/download
+- wget -O download.zip http://45.248.73.44/index.php/s/RPZdLjQiX9iiop4/download
 - unzip download.zip
 - rm -rf download.zip
 ------------------------
